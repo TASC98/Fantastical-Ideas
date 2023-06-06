@@ -1,5 +1,5 @@
 # Fantastical Ideas
-Thoughts and ideas. Starting points of anything I think may be helpful for the advancement of AI and/or society.
+Thoughts and ideas. Starting points of anything I think might be helpful for the advancement of AI and/or society.
 
 
   	`Cognitive Bias Discourse Learning - Studying the Psychology and Ethics of Machine Awareness and Judgment
