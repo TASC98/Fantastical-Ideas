@@ -4,7 +4,7 @@ Thoughts and ideas. Starting points of anything I think may be helpful for the a
 
   	`Cognitive Bias Discourse Learning - Studying the Psychology and Ethics of Machine Awareness and Judgment
 
- 		`Artificial Intelligence and Robotics Mitigation and Adaptation (Act) - Roadmap to potential AI unintended harm mitigation
+ 	`Artificial Intelligence and Robotics Mitigation and Adaptation (Act) - Roadmap to potential AI unintended harm mitigation
 
   	`The Harmony Initiative - How to live in a Post-Labor society in conjunction with AI systems
 
