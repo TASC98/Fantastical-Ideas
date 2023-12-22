@@ -10,7 +10,6 @@ Thoughts and ideas. Starting points of anything I think might be helpful for the
 
   	`The People's Currency - A Universal Liveable Income
 
-
   	`Dynamic Token Integration Network - A multi-dimensional token processing system`
 
 独立
